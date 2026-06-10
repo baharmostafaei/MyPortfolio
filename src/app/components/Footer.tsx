@@ -82,7 +82,7 @@ export function Footer() {
             style={{ fontFamily: "DM Sans, sans-serif", fontSize: "1rem", color: "rgba(254,254,247,0.55)", lineHeight: 1.75 }}
           >
             I'm currently open to new full-time roles, freelance projects, and
-            creative collaborations. If you have something interesting in mind —
+            creative collaborations. If you have something interesting in mind, 
             I'd love to hear it.
           </p>
 

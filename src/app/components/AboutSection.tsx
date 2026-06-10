@@ -2,7 +2,7 @@ import { useRef } from "react";
 import { motion, useInView } from "motion/react";
 import { ArrowRight, MapPin, Sparkles } from "lucide-react";
 import { LiliumFlower, AnimatedLilium } from "./LiliumFlower";
-import MyProfilePicture from "../../imports/portfoliopicture.png";
+import MyProfilePicture from "../../imports/MyPicture.jpg";
 
 
 const tags = ["Figma", "User Experience (UX)", "Prototyping", "Design Systems", "User Research", "User-Centered Design"];
