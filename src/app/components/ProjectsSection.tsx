@@ -5,6 +5,7 @@ import { AnimatedLilium } from "./LiliumFlower";
 import taskFlowImg from "../../imports/Screen1.png";
 import homelyImg from "../../imports/Cover.png";
 import digikalaImg from "../../imports/section_1_header.png";
+import LuminaImg  from "../../imports/Lumina.png";
 
 const projects = [
   {
@@ -46,6 +47,20 @@ const projects = [
     accent: "#F5E94A",
     accentText: "#6B5D0A",
     link: "https://www.behance.net/gallery/241025065/Improving-User-trust-in-E-commers-%28case-study%29",
+  },
+  {
+    id: 4,
+    title: "Lumina — Luxury Lighting E-commerce App",
+    category: "UI design",
+    year: "2025",
+    description:
+      "Lumina is a high-end mobile commerce concept designed for the modern collector of fine interior lighting. The goal was to bridge the gap between artisanal craftsmanship and digital convenience.",
+    tags: ["UI Design"],
+    metrics: { users: "12 Markets", weeks: "10", screens: "Brand Guide" },
+    image: LuminaImg,
+    accent: "#FFD0DC",
+    accentText: "#8A3A52",
+    link: "https://www.behance.net/gallery/241581571/Lumina-Luxury-Lighting-E-commerce-App",
   },
 ];
 
