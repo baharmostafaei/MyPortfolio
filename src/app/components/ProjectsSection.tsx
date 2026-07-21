@@ -10,6 +10,20 @@ import LuminaImg  from "../../imports/Lumina.png";
 const projects = [
   {
     id: 1,
+    title: "DigiKala — Improving User trust in E-commers",
+    category: "Product design",
+    year: "2025",
+    description:
+      "Clarifying seller performance and support users in making faster and more confident desicions, while avoiding negative impact on seller sales market place dynamics.",
+    tags: ["Design Thinking", "Research", "Case Study"],
+    metrics: { users: "12 Markets", weeks: "10", screens: "Brand Guide" },
+    image: digikalaImg,
+    accent: "#F5E94A",
+    accentText: "#6B5D0A",
+    link: "https://www.behance.net/gallery/241025065/Improving-User-trust-in-E-commers-%28case-study%29",
+  },
+  {
+    id: 2,
     title: "TaskFlow - Task Management Platform",
     category: "UI/UX Case Study",
     year: "2026",
@@ -22,7 +36,7 @@ const projects = [
     link: "https://www.behance.net/gallery/244574573/TaskFlow-Project-Management-Platform",
   },
   {
-    id: 2,
+    id: 3,
     title: "Homely - Property finding app",
     category: "Mobile App",
     year: "2026",
@@ -33,20 +47,6 @@ const projects = [
     accent: "#FFD0DC",
     accentText: "#8A3A52",
     link: "https://www.behance.net/gallery/250242521/Homely-Property-finding-app",
-  },
-  {
-    id: 3,
-    title: "DigiKala — Improving User trust in E-commers",
-    category: "Product design",
-    year: "2025",
-    description:
-      "Clarifying seller performance and support users in making faster and more confident desicions, while avoiding negative impact on seller sales market place dynamics.",
-    tags: ["Design Thinking", "Research", "Case Study"],
-    metrics: { users: "12 Markets", weeks: "10", screens: "Brand Guide" },
-    image: digikalaImg,
-    accent: "#F5E94A",
-    accentText: "#6B5D0A",
-    link: "https://www.behance.net/gallery/241025065/Improving-User-trust-in-E-commers-%28case-study%29",
   },
   {
     id: 4,
