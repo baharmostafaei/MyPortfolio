@@ -10,11 +10,11 @@ import LuminaImg  from "../../imports/Lumina.png";
 const projects = [
   {
     id: 1,
-    title: "DigiKala — Improving User trust in E-commers",
+    title: "DigiKala — Improving User Trust in E-Commerce",
     category: "Product design",
     year: "2025",
     description:
-      "Clarifying seller performance and support users in making faster and more confident desicions, while avoiding negative impact on seller sales market place dynamics.",
+      "Clarifying seller performance to support users in making faster and more confident decisions, while avoiding negative impacts on seller sales and marketplace dynamics.",
     tags: ["Design Thinking", "Research", "Case Study"],
     metrics: { users: "12 Markets", weeks: "10", screens: "Brand Guide" },
     image: digikalaImg,
