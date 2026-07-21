@@ -2,10 +2,10 @@ import { useRef } from "react";
 import { motion, useInView } from "motion/react";
 import { ArrowRight, MapPin, Sparkles } from "lucide-react";
 import { LiliumFlower, AnimatedLilium } from "./LiliumFlower";
-import MyProfilePicture from "../../imports/MyPicture.jpg";
+import MyProfilePicture from "../../imports/image.png";
 
 
-const tags = ["Figma", "User Experience (UX)", "Prototyping", "Design Systems", "User Research", "User-Centered Design"];
+const tags = ["User interface design ", "User Experience design", "Prototyping", "User Research", "User-Centered Design"];
 
 export function AboutSection() {
   const ref = useRef(null);
